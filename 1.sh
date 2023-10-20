@@ -1,1 +1,1 @@
-ech "this is 1.sh "
+ech "this is 1.sh file "
